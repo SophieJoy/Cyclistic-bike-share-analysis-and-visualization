@@ -32,30 +32,22 @@ Key metrics analyzed:
 
 ### Key Insights
 
-1. Average Ride Length (Members vs Casual)
+1. Average Ride Length (Members vs Casual): This shows behavior differences between customer types.
 
 - Casual riders usually take longer trips
 
 - Members usually take shorter rides, commute-style trips
 
-  
+
+2. Weekdays vs weekends rides: This identifies when each customer type rides most.
+
+- Casual riders are most active on weekends
+
+- Members ride consistently on weekdays
 
 
 
-1. Casual riders take longer trips
 
-Casual riders tend to have longer ride durations, suggesting that they primarily use bikes for leisure and recreation.
-
-2. Members ride more frequently
-
-Annual members take more frequent but shorter rides, indicating that bikes are often used for commuting or daily transportation.
-
-
-3. Weekend vs weekday usage
-
-Casual riders are most active on weekends
-
-Members ride consistently throughout the workweek
 
 4. Seasonal trends
 
