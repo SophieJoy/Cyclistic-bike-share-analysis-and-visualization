@@ -31,6 +31,17 @@ Key metrics analyzed:
 
 
 ### Key Insights
+
+1. Average Ride Length (Members vs Casual)
+
+- Casual riders usually take longer trips
+
+- Members usually take shorter rides, commute-style trips
+
+  
+
+
+
 1. Casual riders take longer trips
 
 Casual riders tend to have longer ride durations, suggesting that they primarily use bikes for leisure and recreation.
@@ -38,6 +49,7 @@ Casual riders tend to have longer ride durations, suggesting that they primarily
 2. Members ride more frequently
 
 Annual members take more frequent but shorter rides, indicating that bikes are often used for commuting or daily transportation.
+
 
 3. Weekend vs weekday usage
 
@@ -112,3 +124,18 @@ Cyclistic-Bike-Share-Analysis
 This analysis shows clear behavioral differences between casual riders and members. Casual riders primarily use Cyclistic for recreational weekend trips, while members rely on bikes for consistent transportation during the week.
 
 By targeting high-frequency casual riders with strategic marketing campaigns, Cyclistic can increase annual memberships and drive long-term revenue growth.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
