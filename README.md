@@ -34,24 +34,41 @@ Key metrics analyzed:
 
 1. Average Ride Length (Members vs Casual): This shows behavior differences between customer types.
 
-- Casual riders usually take longer trips
+- Casual riders usually take longer rides
 
-- Members usually take shorter rides, commute-style trips
+- Members usually take shorter but frequent rides
 
 
-2. Weekdays vs weekends rides: This identifies when each customer type rides most.
+2. Weekdays vs weekends rides: This identifies when each customer type rides most
+
+Typical pattern:
 
 - Casual riders are most active on weekends
 
 - Members ride consistently on weekdays
 
 
+3. Most Popular Start Stations: Shows where rides begin most often
+
+- Casual riders ride mostly to tourist locations
+
+- Members ride to Residential or transit hubs 
 
 
+4. Ride Volume by Month: Shows seasonal usage patterns
 
-4. Seasonal trends
+Pattern
 
-Casual riding increases significantly during summer months, while member usage remains more stable year-round.
+Summer → highest usage
+
+Winter → lowest usage
+
+Casual riders spike in warm months
+
+- Casual riding increases significantly during summer months
+- Member usage remains more stable year-round.
+
+
 
 
 ## Data Visualization
