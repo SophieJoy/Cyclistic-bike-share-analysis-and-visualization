@@ -69,6 +69,13 @@ Casual riders spike in warm months
 - Member usage remains more stable year-round.
 
 
+5. Ride Length Distribution: Find extreme or invalid rides (This helps clean bad data before visualization)
+
+- Casual riders ?????
+
+- Members ???????????
+
+
 
 
 ## Data Visualization
