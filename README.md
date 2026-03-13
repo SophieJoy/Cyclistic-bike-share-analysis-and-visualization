@@ -76,6 +76,9 @@ Casual riders spike in warm months
 - Members ???????????
 
 
+6. Bike Type preference
+
+
 
 
 ## Data Visualization
