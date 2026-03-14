@@ -4,15 +4,11 @@
 
 ## Tools Used
 
-SQL – Data cleaning and transformation
+- Microsoft SQL Server –> Data cleaning and transformation
 
-Excel / Google Sheets – Initial exploration
+- Tableau  –> Data visualization
 
-R / Python (optional depending on your project) – Data analysis
-
-Tableau / Power BI – Data visualization
-
-GitHub – Project documentation and version control
+- GitHub –> Project documentation and version control
 
 
 ## Exploratory Data Analysis
@@ -78,7 +74,7 @@ Casual riders spike in warm months
 - Members ???????????
 
 
-5. Hourly Ride Patterns: This shows what time of day people ride
+6. Hourly Ride Patterns: This shows what time of day people ride
 
 When you visualize this in Tableau (line chart):
 
@@ -102,7 +98,7 @@ Annual members show strong usage peaks during morning and evening commuting hour
 This suggests members primarily use Cyclistic bikes for commuting, whereas casual riders use them for leisure activities.
 
 
-6. Bike Type preference
+7. Bike Type preference
 
 - Casual riders prefer ??????
 
