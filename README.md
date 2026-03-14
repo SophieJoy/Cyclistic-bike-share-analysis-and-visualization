@@ -1,4 +1,6 @@
-# Cyclistic-bike-share-analysis-and-visualization
+# Cyclistic Bike-Share Case Study
+
+## Analysis and Visualization
 
 ## Tools Used
 
