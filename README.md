@@ -76,12 +76,55 @@ Casual riders spike in warm months
 - Members ???????????
 
 
+5. Hourly Ride Patterns: This shows what time of day people ride
+
+When you visualize this in Tableau (line chart):
+
+- Casual riders usually show:
+
+Midday peak → 11 AM – 3 PM
+
+Weekend afternoon spikes
+
+This indicates recreational riding.
+
+- Members usually show:
+
+Morning peak → 7–9 AM
+
+Evening peak → 4–6 PM
+
+This indicates commuting behavior.
+
+Annual members show strong usage peaks during morning and evening commuting hours, while casual riders are most active during midday periods. 
+This suggests members primarily use Cyclistic bikes for commuting, whereas casual riders use them for leisure activities.
+
+
 6. Bike Type preference
 
+- Casual riders prefer ??????
+
+- Members often use ???????
 
 
+## Best Visualization for This Query
 
-## Data Visualization
+Chart Type: Line Chart
+
+Fields:
+
+X-axis → ride_hour
+
+Y-axis → COUNT(ride_id)
+
+Color → member_casual
+
+This clearly shows two different riding patterns.
+
+
+## Data Visualization 
+
+- Question: How do annual members and casual riders use bikes differently, and how can we convert casual riders into members?
 
 Example visualizations included in this project:
 
@@ -93,9 +136,26 @@ Example visualizations included in this project:
 
 - Monthly riding trends
 
+-  Hourly Ride Patterns
+
 - Bike type distribution
 
-(Visual dashboards can be found in the /visualizations folder.)
+
+## Dashboard Structure (4-Chart Layout)
+
+A simple 2 × 2 layout works best.
+-----------------------------------------
+|  Total Rides by Rider Type            |
+|                                       |
+|---------------------------------------|
+|  Avg Ride Length  |  Rides by Weekday |
+|---------------------------------------|
+|        Rides by Month                 |
+-----------------------------------------
+
+
+
+
 
 ### Marketing Recommendations
 
@@ -145,6 +205,47 @@ This analysis shows clear behavioral differences between casual riders and membe
 By targeting high-frequency casual riders with strategic marketing campaigns, Cyclistic can increase annual memberships and drive long-term revenue growth.
 
 
+
+## Typical Final Insights
+
+Analysts usually find:
+
+Casual riders take longer rides
+
+Members take more frequent rides
+
+Casual riders peak on weekends
+
+Members ride mainly on weekdays
+
+Business recommendation:
+
+Promote weekend membership discounts
+
+Target casual riders with seasonal membership offers
+
+
+## Example Final Recommendation (Presentation Slide)
+
+Typical conclusion in the case study:
+
+Key Insights
+
+Members ride more frequently
+
+Casual riders ride longer
+
+Casual rides increase on weekends
+
+Casual riders prefer electric bikes
+
+Business Strategy
+
+Offer weekend membership promotions
+
+Target casual riders with seasonal membership plans
+
+Provide tourist membership passes
 
 
 
