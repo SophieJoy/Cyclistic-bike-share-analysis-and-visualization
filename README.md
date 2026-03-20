@@ -25,6 +25,10 @@ Key metrics analyzed:
 
   <img width="393" height="542" alt="image" src="https://github.com/user-attachments/assets/5f119c00-2db9-4a26-8526-4d093fe6ca95" />
 
+  - Casual riding increases significantly during summer months
+    
+  - Member usage remains more stable year-round.
+
 - 3. Rideable bike type usage
 
   <img width="428" height="257" alt="image" src="https://github.com/user-attachments/assets/e310db06-b825-4259-91a7-81dde65e3762" />
@@ -32,6 +36,10 @@ Key metrics analyzed:
 - 4. Top Start Stations
 
   <img width="456" height="391" alt="image" src="https://github.com/user-attachments/assets/bf9b8c7d-e0ca-4ffc-bdac-976aeebc16be" />
+
+  - Casual riders ride mostly to tourist locations
+
+  - Members ride to Residential or transit hubs
 
 - 5. Top End Stations
 
@@ -43,19 +51,25 @@ Key metrics analyzed:
 
   <img width="301" height="495" alt="image" src="https://github.com/user-attachments/assets/762885d5-c5d6-491b-9365-9c4a638474e7" />
 
-  Key insight:
+  - Casual ride more during leisure hours
 
-  Members → commute hours
-
-  Casual → leisure hours
+  - Members ride during commute hours
 
 - 7. Average Ride Length by Day
 
   <img width="385" height="401" alt="image" src="https://github.com/user-attachments/assets/db9e60af-2e33-4667-977f-3c4672e5854f" />
 
+  - Casual riders usually take longer rides
+
+  - Members usually take shorter but frequent rides
+
 - 8. Weekend vs Weekday Analysis
 
   <img width="393" height="249" alt="image" src="https://github.com/user-attachments/assets/67da6014-bbe2-4ad2-ac86-28c460deba1d" />
+
+  - Casual riders are most active on weekends
+
+  - Members ride consistently on weekdays
 
 - 9. Overall Ride Summary
       
