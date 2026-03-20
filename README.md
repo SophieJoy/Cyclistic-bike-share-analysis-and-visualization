@@ -11,7 +11,7 @@
 - GitHub –> Project documentation and version control
 
 
-## Exploratory Data Analysis
+## I - Data Analysis
 
 The analysis focused on identifying patterns between casual riders and members.
 
