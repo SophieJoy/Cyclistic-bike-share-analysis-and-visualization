@@ -4,7 +4,6 @@
 SELECT *
   FROM cyclistic_2025
 
-
 -- 1. Rides by Day of Week: Identifies weekday vs weekend usage patterns --
 SELECT 
     day_of_week,
@@ -48,7 +47,6 @@ ORDER BY
         WHEN ride_month = 'December' THEN 12
     END;
 
-
 -- 3. Rideable Type Usage: Shows preferences for: electric bikes and classic bikes --
 SELECT 
     rideable_type,
@@ -57,7 +55,6 @@ SELECT
     AVG(ride_length) AS avg_ride_length
 FROM cyclistic_2025
 GROUP BY rideable_type, member_casual;
-
 
 -- 4. Top Start Stations: Identifies most popular pickup locations --
 SELECT TOP 10
@@ -113,7 +110,6 @@ GROUP BY
     END,
     member_casual;
 
-
 -- 9. Overall Ride Summary: Shows overall behavioral differences between casual vs member riders --
 SELECT 
     member_casual,
@@ -123,3 +119,5 @@ SELECT
     MAX(ride_length) AS max_ride
 FROM cyclistic_2025
 GROUP BY member_casual;
+
+
