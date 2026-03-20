@@ -76,74 +76,23 @@ Key metrics analyzed:
   <img width="457" height="225" alt="image" src="https://github.com/user-attachments/assets/40b2e469-a40d-4efb-9a93-b68b851494c5" />
 
 
-### Key Insights
+### Key Insights Summary
 
-1. Average Ride Length (Members vs Casual): This shows behavior differences between customer types.
+#### Casual riders
 
-- Casual riders usually take longer rides
+ - Ride longer
 
-- Members usually take shorter but frequent rides
+ - Prefer weekends
 
+ - More seasonal (summer-heavy)
 
-2. Weekdays vs weekends rides: This identifies when each customer type rides most
+#### Members
 
-Typical pattern:
+ - Ride more frequently
 
-- Casual riders are most active on weekends
+ - Shorter rides
 
-- Members ride consistently on weekdays
-
-
-3. Most Popular Start Stations: Shows where rides begin most often
-
-- Casual riders ride mostly to tourist locations
-
-- Members ride to Residential or transit hubs 
-
-
-4. Ride Volume by Month: Shows seasonal usage patterns
-
-Pattern
-
-Summer → highest usage
-
-Winter → lowest usage
-
-Casual riders spike in warm months
-
-- Casual riding increases significantly during summer months
-- Member usage remains more stable year-round.
-
-
-5. Ride Length Distribution: Find extreme or invalid rides (This helps clean bad data before visualization)
-
-- Casual riders ?????
-
-- Members ???????????
-
-
-6. Hourly Ride Patterns: This shows what time of day people ride
-
-When you visualize this in Tableau (line chart):
-
-- Casual riders usually show:
-
-Midday peak → 11 AM – 3 PM
-
-Weekend afternoon spikes
-
-This indicates recreational riding.
-
-- Members usually show:
-
-Morning peak → 7–9 AM
-
-Evening peak → 4–6 PM
-
-This indicates commuting behavior.
-
-Annual members show strong usage peaks during morning and evening commuting hours, while casual riders are most active during midday periods. 
-This suggests members primarily use Cyclistic bikes for commuting, whereas casual riders use them for leisure activities.
+ - Peak during commute hours
 
 
 7. Bike Type preference
