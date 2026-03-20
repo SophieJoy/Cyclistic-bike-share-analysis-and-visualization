@@ -17,29 +17,27 @@ The analysis focused on identifying patterns between casual riders and members.
 
 Key metrics analyzed:
 
-- 1. Average ride duration
-
-- 2. Ride frequency by day of week
+- 1. Ride frequency by day of week
      
   <img width="374" height="433" alt="image" src="https://github.com/user-attachments/assets/9d379e8c-374a-4e3a-9e88-1aba5fb9cda7" />
 
-- 3. Ride frequency by month
+- 2. Ride frequency by month
 
   <img width="393" height="542" alt="image" src="https://github.com/user-attachments/assets/5f119c00-2db9-4a26-8526-4d093fe6ca95" />
 
-- 4. Rideable bike type usage
+- 3. Rideable bike type usage
 
   <img width="428" height="257" alt="image" src="https://github.com/user-attachments/assets/e310db06-b825-4259-91a7-81dde65e3762" />
 
-- 5. Top Start Stations
+- 4. Top Start Stations
 
   <img width="456" height="391" alt="image" src="https://github.com/user-attachments/assets/bf9b8c7d-e0ca-4ffc-bdac-976aeebc16be" />
 
-- 6. Top End Stations
+- 5. Top End Stations
 
   <img width="435" height="353" alt="image" src="https://github.com/user-attachments/assets/c2ddd0f6-2acc-4ca6-ae97-ac925b1ae73f" />
 
-- 7. Peak riding hours
+- 6. Peak riding hours
 
   <img width="307" height="499" alt="image" src="https://github.com/user-attachments/assets/a789857a-297a-448d-bf5e-9cab54882df5" />
 
@@ -51,13 +49,17 @@ Key metrics analyzed:
 
   Casual → leisure hours
 
-- 8. Average Ride Length by Day
+- 7. Average Ride Length by Day
 
   <img width="385" height="401" alt="image" src="https://github.com/user-attachments/assets/db9e60af-2e33-4667-977f-3c4672e5854f" />
 
-- 9. Weekend vs Weekday Analysis
+- 8. Weekend vs Weekday Analysis
 
   <img width="393" height="249" alt="image" src="https://github.com/user-attachments/assets/67da6014-bbe2-4ad2-ac86-28c460deba1d" />
+
+- 9. Overall Ride Summary
+      
+  <img width="457" height="225" alt="image" src="https://github.com/user-attachments/assets/40b2e469-a40d-4efb-9a93-b68b851494c5" />
 
 
 ### Key Insights
