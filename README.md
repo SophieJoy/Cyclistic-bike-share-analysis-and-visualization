@@ -95,14 +95,7 @@ Key metrics analyzed:
  - Peak during commute hours
 
 
-7. Bike Type preference
-
-- Casual riders prefer ??????
-
-- Members often use ???????
-
-
-## Best Visualization for This Query
+## II - Data Visualization
 
 Chart Type: Line Chart
 
