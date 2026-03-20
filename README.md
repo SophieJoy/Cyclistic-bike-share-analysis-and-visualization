@@ -17,15 +17,23 @@ The analysis focused on identifying patterns between casual riders and members.
 
 Key metrics analyzed:
 
-- Average ride duration
+- 1. Average ride duration
 
-- Ride frequency by day of week
+- 2. Ride frequency by day of week
 
-- Ride frequency by month
+- 3. Ride frequency by month
 
-- Rideable bike type usage
+- 4. Rideable bike type usage
 
-- Peak riding hours
+- 5. Top Start Stations
+
+- 6. Top End Stations
+
+- 7. Peak riding hours
+
+- 8. Average Ride Length by Day
+
+- 9. Weekend vs Weekday Analysis
 
 
 ### Key Insights
