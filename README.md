@@ -141,7 +141,19 @@ A simple 2 × 2 layout works best.
 |        Rides by Month                 |
 -----------------------------------------
 
+📈 Visualizations You Should Include (Power BI / Tableau)
 
+If you build a dashboard, include:
+
+1. Bar Chart: Rides by member vs casual
+
+2. Line Chart: Monthly ride trends
+
+3. Heatmap: Hour vs day usage
+
+4. Stacked Bar: Rideable type by user type
+
+5. Map: Start station density
 
 
 
