@@ -145,15 +145,29 @@ A simple 2 × 2 layout works best.
 
 If you build a dashboard, include:
 
-1. Bar Chart: Rides by member vs casual
+1. Average Ride Length by User Type
 
-2. Line Chart: Monthly ride trends
+  <img width="1214" height="726" alt="image" src="https://github.com/user-attachments/assets/66e93b17-ef1e-4860-8ca2-8f809475b172" />
 
-3. Heatmap: Hour vs day usage
+   - Casual riders usually have longer rides
 
-4. Stacked Bar: Rideable type by user type
+2. Rides by Day of Week
 
-5. Map: Start station density
+   <img width="1214" height="817" alt="image" src="https://github.com/user-attachments/assets/6317f310-0733-497b-ae04-fa1d2166e89d" />
+
+    - Members ride more on weekdays
+    - Casual riders peak on weekends
+
+3.  Rides by Month
+     
+
+4. Line Chart: Monthly ride trends
+
+5. Heatmap: Hour vs day usage
+
+6. Stacked Bar: Rideable type by user type
+
+7. Map: Start station density
 
 
 
