@@ -159,16 +159,20 @@ If you build a dashboard, include:
     - Casual riders peak on weekends
 
 3.  Rides by Month
-     
 
-4. Line Chart: Monthly ride trends
+   <img width="733" height="622" alt="image" src="https://github.com/user-attachments/assets/081670f3-3a5f-450d-b167-4965c6f9d96a" />
 
-5. Heatmap: Hour vs day usage
+   - Casual riding increases significantly during summer months
+    
+   - Member usage remains more stable year-round. 
 
-6. Stacked Bar: Rideable type by user type
+4. Rides by Hour of Day
 
-7. Map: Start station density
+   <img width="810" height="618" alt="image" src="https://github.com/user-attachments/assets/a6735856-d902-4640-ae8a-945ceeede52a" />
 
+     - Members ride consistently during commute hours (8 AM, 5 PM)
+
+     - Casual usually ride midday for leisure <img width="715" height="81" alt="image" src="https://github.com/user-attachments/assets/58b60a3c-a810-46c7-8ce9-de5b876ada93" />
 
 
 ### Marketing Recommendations
@@ -191,25 +195,6 @@ Promote the cost savings of membership for riders who frequently take long leisu
 
 Use email and app notifications to target repeat casual riders with personalized membership offers.
 
-
-
-### Project Structure
-Cyclistic-Bike-Share-Analysis
-│
-├── data
-│   ├── raw_data
-│   └── cleaned_data
-│
-├── notebooks
-│   └── analysis.ipynb
-│
-├── sql
-│   └── data_cleaning.sql
-│
-├── visualizations
-│   └── charts_and_dashboards
-│
-└── README.md
 
 
 ### Conclusion
