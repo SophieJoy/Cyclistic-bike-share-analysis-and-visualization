@@ -128,8 +128,6 @@ Key metrics analyzed:
 
    - Casual usually ride midday for leisure <img width="715" height="81" alt="image" src="https://github.com/user-attachments/assets/58b60a3c-a810-46c7-8ce9-de5b876ada93" />
 
-5. Bike type distribution
-
 
 ### Marketing Recommendations
 
@@ -150,14 +148,4 @@ Promote the cost savings of membership for riders who frequently take long leisu
 4. Digital Marketing Campaigns
 
 Use email and app notifications to target repeat casual riders with personalized membership offers.
-
-
-### Conclusion
-
-This analysis shows clear behavioral differences between casual riders and members. 
-
-Casual riders primarily use Cyclistic for recreational weekend trips, while members rely on bikes for consistent transportation during the week.
-
-By targeting high-frequency casual riders with strategic marketing campaigns, Cyclistic can increase annual memberships and drive long-term revenue growth.
-
 
