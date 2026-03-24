@@ -71,6 +71,7 @@ Key metrics analyzed:
 
   - Members ride consistently on weekdays
 
+
 - 9. Overall Ride Summary
       
   <img width="457" height="225" alt="image" src="https://github.com/user-attachments/assets/40b2e469-a40d-4efb-9a93-b68b851494c5" />
@@ -95,20 +96,6 @@ Key metrics analyzed:
  - Peak during commute hours
 
 
-## II - Data Visualization
-
-Chart Type: Line Chart
-
-Fields:
-
-X-axis → ride_hour
-
-Y-axis → COUNT(ride_id)
-
-Color → member_casual
-
-This clearly shows two different riding patterns.
-
 
 ## Data Visualization 
 
@@ -129,21 +116,6 @@ Example visualizations included in this project:
 - Bike type distribution
 
 
-## Dashboard Structure (4-Chart Layout)
-
-A simple 2 × 2 layout works best.
------------------------------------------
-|  Total Rides by Rider Type            |
-|                                       |
-|---------------------------------------|
-|  Avg Ride Length  |  Rides by Weekday |
-|---------------------------------------|
-|        Rides by Month                 |
------------------------------------------
-
-📈 Visualizations You Should Include (Power BI / Tableau)
-
-If you build a dashboard, include:
 
 1. Average Ride Length by User Type
 
@@ -174,6 +146,8 @@ If you build a dashboard, include:
 
      - Casual usually ride midday for leisure <img width="715" height="81" alt="image" src="https://github.com/user-attachments/assets/58b60a3c-a810-46c7-8ce9-de5b876ada93" />
 
+5. Bike type distribution
+
 
 ### Marketing Recommendations
 
@@ -181,11 +155,11 @@ Based on the analysis, the following strategies are recommended:
 
 1. Weekend Membership Promotions
 
-Offer weekend riders discounted membership upgrades when they frequently rent bikes.
+Casual riders ride mostly on weekends. Cyclistic could offer weekend riders a limited-time membership discount
 
 2. Seasonal Membership Campaigns
 
-Launch summer marketing campaigns targeting casual riders when demand is highest.
+Casual ridership peaks during summer months, making it an ideal time for launching membership promotions.
 
 3. Ride Duration Incentives
 
@@ -196,65 +170,12 @@ Promote the cost savings of membership for riders who frequently take long leisu
 Use email and app notifications to target repeat casual riders with personalized membership offers.
 
 
-
 ### Conclusion
 
-This analysis shows clear behavioral differences between casual riders and members. Casual riders primarily use Cyclistic for recreational weekend trips, while members rely on bikes for consistent transportation during the week.
+This analysis shows clear behavioral differences between casual riders and members. 
+
+Casual riders primarily use Cyclistic for recreational weekend trips, while members rely on bikes for consistent transportation during the week.
 
 By targeting high-frequency casual riders with strategic marketing campaigns, Cyclistic can increase annual memberships and drive long-term revenue growth.
-
-
-
-## Typical Final Insights
-
-Analysts usually find:
-
-Casual riders take longer rides
-
-Members take more frequent rides
-
-Casual riders peak on weekends
-
-Members ride mainly on weekdays
-
-Business recommendation:
-
-Promote weekend membership discounts
-
-Target casual riders with seasonal membership offers
-
-
-## Example Final Recommendation (Presentation Slide)
-
-Typical conclusion in the case study:
-
-Key Insights
-
-Members ride more frequently
-
-Casual riders ride longer
-
-Casual rides increase on weekends
-
-Casual riders prefer electric bikes
-
-Business Strategy
-
-Offer weekend membership promotions
-
-Target casual riders with seasonal membership plans
-
-Provide tourist membership passes
-
-
-
-
-
-
-
-
-
-
-
 
 
