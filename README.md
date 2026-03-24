@@ -126,8 +126,7 @@ Key metrics analyzed:
 
    - Members ride consistently during commute hours (8 AM, 5 PM)
 
-   - Casual usually ride midday for leisure <img width="715" height="81" alt="image" src="https://github.com/user-attachments/assets/58b60a3c-a810-46c7-8ce9-de5b876ada93" />
-
+   - Casual usually ride midday for leisure
 
 ### Marketing Recommendations
 
