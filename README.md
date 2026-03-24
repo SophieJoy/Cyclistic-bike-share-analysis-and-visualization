@@ -96,26 +96,7 @@ Key metrics analyzed:
  - Peak during commute hours
 
 
-
 ## Data Visualization 
-
-- Question: How do annual members and casual riders use bikes differently, and how can we convert casual riders into members?
-
-Example visualizations included in this project:
-
-- Ride frequency by user type
-
-- Average ride duration comparison
-
-- Rides by day of week
-
-- Monthly riding trends
-
--  Hourly Ride Patterns
-
-- Bike type distribution
-
-
 
 1. Average Ride Length by User Type
 
@@ -128,6 +109,7 @@ Example visualizations included in this project:
    <img width="1214" height="817" alt="image" src="https://github.com/user-attachments/assets/6317f310-0733-497b-ae04-fa1d2166e89d" />
 
     - Members ride more on weekdays
+      
     - Casual riders peak on weekends
 
 3.  Rides by Month
@@ -142,9 +124,9 @@ Example visualizations included in this project:
 
    <img width="810" height="618" alt="image" src="https://github.com/user-attachments/assets/a6735856-d902-4640-ae8a-945ceeede52a" />
 
-     - Members ride consistently during commute hours (8 AM, 5 PM)
+   - Members ride consistently during commute hours (8 AM, 5 PM)
 
-     - Casual usually ride midday for leisure <img width="715" height="81" alt="image" src="https://github.com/user-attachments/assets/58b60a3c-a810-46c7-8ce9-de5b876ada93" />
+   - Casual usually ride midday for leisure <img width="715" height="81" alt="image" src="https://github.com/user-attachments/assets/58b60a3c-a810-46c7-8ce9-de5b876ada93" />
 
 5. Bike type distribution
 
